@@ -1,0 +1,264 @@
+a {
+  color: #987654;
+}
+a:hover,
+a:focus {
+  color: #987654;
+}
+.caption a:hover { color: #987654 !important;}
+.bg-default {
+    background-color: #987654;
+}
+.btn-default {
+    background-color: #987654;
+	/*box shadow should be dark*/
+    box-shadow: 0 3px 0 #7b5a39;
+    -moz-box-shadow:0 3px 0 #7b5a39;
+    -webkit-box-shadow:0 3px 0 #7b5a39;
+}
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default.active,
+.open .dropdown-toggle.btn-default {
+  background-color: #7b5a39;
+}
+h1.bordered,
+h2.bordered,
+h3.bordered,
+h4.bordered,
+h5.bordered,
+h6.bordered,
+.h1.bordered,
+.h2.bordered,
+.h3.bordered,
+.h4.bordered,
+.h5.bordered,
+.h6.bordered {
+	color: #987654;
+}
+h1.light,
+h2.light,
+h3.light,
+h4.light,
+h5.light,
+h6.light,
+.h1.light,
+.h2.light,
+.h3.light,
+.h4.light,
+.h5.light,
+.h6.light {
+	color:#987654;
+}
+
+.top-sec-detail .social2 li a:hover{ border:2px solid #987654;}
+.top-sec-detail .social2 li a:hover i{ color:#987654}
+
+@media (min-width: 768px) {
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  background-color:#987654;
+}
+.navbar-nav > li:hover a{
+	background:#987654; color:#fff !important;
+}
+}
+.dropdown-menu {
+	border-top: 6px solid #987654;
+}
+.navbar-nav > li:hover ul li a:hover{ 
+	color:#987654 !important;
+}
+.navbar-nav li.mega-menu-item .mega-menu{ border-top: 6px solid #987654;}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  background-color: #987654;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  background-color: #987654;
+}
+
+@media (max-width: 767px) {		
+	.navbar-default .navbar-nav > li a:hover{		
+		color:#987654;		
+	}
+}
+.home-box a:hover{color:#987654;}
+.appointment-sec h1{ 
+	color:#987654
+}
+.ui-widget-header {
+	background: #987654;
+	/*border colour should be dark*/
+	border: 1px solid #7b5a39;
+}
+
+.blog-date {background: #987654; }
+.blog-thumbnail img{border-bottom:4px solid #987654;}
+.blog-item .blog-title a:hover{ color:#987654;}
+.carousel-indicators .active {
+  background-color: #987654;
+}
+.panel-title.active span{ background:#987654}
+.panel-title.active a{ color:#987654 !important}
+.testimonials h1{ color:#987654}
+.footer-nav li a:hover {color:#987654 !important;}
+footer h4{ color:#987654;}
+.footer-widget h4{ color:#987654}
+footer h4 span{ border-bottom:1px solid #987654;}
+footer.light .tweet i{color:#987654;}
+footer.light .contact-widget p a:hover{ color:#987654;}
+footer.dark .contact-widget p a:hover{ color:#987654;}
+
+/*home 2*/
+.service-box:hover{ background:#987654;}
+.service-box:hover .icon{ background:#987654;box-shadow:0px 0px 0px 1px #987654;}
+.jcarousel-skin-tango .jcarousel-prev-disabled-vertical,
+.jcarousel-skin-tango .jcarousel-prev-disabled-vertical:hover,
+.jcarousel-skin-tango .jcarousel-prev-disabled-vertical:focus,
+.jcarousel-skin-tango .jcarousel-prev-disabled-vertical:active {
+    background:#987654 !important;
+}
+.jcarousel-skin-tango .jcarousel-prev-vertical:hover,
+.jcarousel-skin-tango .jcarousel-prev-vertical:focus {
+    background:#987654;
+}
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal,
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:hover,
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:focus,
+.jcarousel-skin-tango .jcarousel-prev-disabled-horizontal:active {
+    background:#987654 !important;
+}
+.jcarousel-skin-tango .jcarousel-prev-horizontal:hover, 
+.jcarousel-skin-tango .jcarousel-prev-horizontal:focus {
+   background:#987654;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal:active {
+   background:#987654;
+}
+.jcarousel-skin-tango .jcarousel-next-horizontal:hover,
+.jcarousel-skin-tango .jcarousel-next-horizontal:focus {
+    background:#987654;
+}
+
+.jcarousel-skin-tango .jcarousel-next-horizontal:active {
+    background:#987654;
+}
+
+.jcarousel-skin-tango .jcarousel-next-disabled-horizontal,
+.jcarousel-skin-tango .jcarousel-next-disabled-horizontal:hover,
+.jcarousel-skin-tango .jcarousel-next-disabled-horizontal:focus,
+.jcarousel-skin-tango .jcarousel-next-disabled-horizontal:active {
+    background:#987654 !important;
+}
+.jcarousel-skin-tango .jcarousel-next-vertical:hover, .jcarousel-skin-tango .jcarousel-next-vertical:focus{background:#987654;}
+.jcarousel-skin-tango .jcarousel-next-disabled-vertical, .jcarousel-skin-tango .jcarousel-next-disabled-vertical:hover, .jcarousel-skin-tango .jcarousel-next-disabled-vertical:focus, .jcarousel-skin-tango .jcarousel-next-disabled-vertical:active{background:#987654;}
+.blog2-content h4 a:hover{ color:#987654;}
+.slider-mini a:hover{ color:#987654; border-color:#987654;}
+.testimonials2-patient-detail span{ color:#987654}
+.creative-sec h1{ color:#987654}
+.creative-sec-thumb .overlay{background:url(../images/brown-overlay.png) repeat;}
+.accordian-style2 .panel-heading i{ color:#987654;}
+
+
+
+/*home4*/
+caption a.btn-bordered:hover{ color:#987654}
+.slider-revolution-overlay{ background:url(../images/brown-overlay.png) repeat;}
+/*revolution slider nav*/
+.tp-bullets.simplebullets .bullet{background:#80b5d0;}
+
+
+/*sub page*/
+.sub-page-banner .overlay{background:url(../images/brown-overlay.png) repeat;}
+.team-des-btn.active{ background:#987654}
+.team-member-description .team-member-desc-inner{ background:url(../images/brown-overlay.png) repeat; border:1px solid #1b7fb1; 
+/*box shadow should be light*/
+box-shadow: inset 1px 1px 1px 0px #88c4e2;-moz-box-shadow: inset 1px 1px 1px 0px #88c4e2;-webkit-box-shadow: inset 1px 1px 1px 0px #88c4e2;}
+.team-member-description .team-member-desc-inner span.pointing-arrow{ background:url(../images/team-member-desc-arrow.png) no-repeat;}
+i.feature-icon{  background:#987654;}
+i.feature-icon{text-shadow:0px 5px 0px #87592c;}
+.carousel.default .carousel-indicators .active{ background:#987654;}
+.year {color: #987654;}
+.carousel-indicators.dark-indicators .active{ background:#987654 !important}
+.medicom-feature-list li i{border:1px solid #704e2c; 
+/*border should be dark*/
+background:#7b5a39;}
+.procedures h3{ margin:0; background:#987654; }
+.testimonials3-patient-detail span{color:#987654;}
+
+
+/*quote icons should be light*/
+.testimonials3 .fa-quote-left, .testimonials3 .fa-quote-right{ color:#d9e6ef;}
+.doctors-detail h4{color:#987654}
+.investigations h1{ color:#987654}
+.pricing-table2.highlight .table-heading, .pricing-table2.highlight .table-heading .price{ background:#987654;}
+.pricing-table .table-heading{ background:#987654;}
+.gallery-item:hover p a:hover{ color:#987654}
+.tags li a:hover{ color:#987654; border:1px solid #987654;}
+.popular-post h4:hover, .popular-post h4 a:hover{ color:#987654}
+.archives li a:hover, .archives li a:hover i{ color:#987654}
+.get-in-touch-widget li a:hover, .we-are-social li a:hover{ color:#987654;}
+
+
+.sidebar-nav .panel-body a:hover, .sidebar-nav .panel-body a.active{color:#987654}
+
+
+
+
+
+/*tri sec*/
+.tri-sec:hover{ background:#987654;}
+.tri-sec:hover i{ color:#987654;}
+
+
+
+
+
+
+
+
+
+
+.price-rating .price{ 
+	color:#987654
+}
+.product .ad-to-cart:hover{
+	color:#987654;
+}
+.popular-post p strong, .best-seller p strong{
+	color:#987654
+}
+.popular-post h4 a:hover, .best-seller h4 a:hover{
+	color:#987654
+}
+
+.shop-banner .slider-text h1 span{ color:#987654}
+.product-single-content h4{
+	color:#987654
+}
+.cart-total-amount .price{ 
+	color:#987654;
+}
+.after-booking-sec h1{ color:#987654}
+.owl-controls .owl-buttons .owl-prev:hover, .owl-controls .owl-buttons .owl-next:hover{ background:#987654;}
+.team-thumb .links a i{ background:#987654;}
+.team-thumb .links a:hover i{ background:#a98867;}
+.solid-row{ background:#987654;}
+
+
+.shop-banner .owl-controls .owl-page:hover, .shop-banner .owl-controls .owl-page.active{ background:#987654}
+.back-to-top{ background:#987654}
+.testimonials-carousel .owl-pagination .owl-page.active, 
+.testimonials-carousel .owl-pagination .owl-page:hover,
+.meet-doctors-carousel .owl-pagination .owl-page.active, 
+.meet-doctors-carousel .owl-pagination .owl-page:hover{ 
+	background-color:#987654
+}
+.gallery-item:hover .gallery-item-info{ border-bottom:6px solid #987654}

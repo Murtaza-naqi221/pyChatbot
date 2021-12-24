@@ -1,0 +1,181 @@
+body{ background:#313131;color:#c4c4c4}
+.boxed-layout { background:#313131;}
+.appointment-sec.bg-gray, .testimonials{ background:none;}
+.meet-the-doctors{background:url("../images/doctors-dark.jpg") no-repeat scroll center bottom #222}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{color:#c4c4c4}
+.navbar-default {background-color: #313131;}
+.navbar-default .navbar-nav > li > a{color:#c4c4c4; border-color:#757474}
+.navbar-default .navbar-toggle .icon-bar { background-color: #989898;}
+.navbar-default .dropdown-menu > li > a { background-color: #272727!important;color:#c4c4c4;border-color:#525252}
+.navbar-default .dropdown-menu{}
+.navbar-nav li.mega-menu-item .mega-menu{background-color: #272727;}
+.navbar-nav li .mega-menu ul li a{ background-color:#272727; border-color:#525252}
+
+.opening-hours {background: #313131 !important;color: #c4c4c4;}
+.opening-hours h3 {color: #c4c4c4 !important;}
+.opening-hours span.glyphicon {color: #c4c4c4}
+.appointment-sec{ background:#313131;}
+.opening-hours li {border-bottom: 1px solid #565656;}
+input[type="text"], input[type="email"], input[type="number"], select, div.selector, textarea{background-color: #292929;border-color: #565656; box-shadow:none !important}
+.meet-the-doctors.team-carousel{background:#313131;}
+.owl-controls .owl-buttons .owl-next, .owl-controls .owl-buttons .owl-prev, .carousel-indicators li{background:#AFAFAF;}
+.owl-carousel .owl-item h5 span, .owl-carousel .owl-item p{color: #c4c4c4}
+.slider-caption p, .carousel-caption p{ color:#4c4c4c!important;}
+.blog-content{border-color: #565656;}
+.blog-title, .blog-item .blog-title a, .blog-content .blog-meta, .blog-content p{color: #c4c4c4}
+.blog-content .blog-meta a{color: #9E9D9D}
+.testimonials.bg-white{background:#313131;}
+.what-doctor-say h4{color: #c4c4c4}
+.what-doctor-say h4 span{color: #9E9D9D}
+.what-doctor-say p{color: #c4c4c4}
+.panel-group .panel{background:#313131;}
+.panel-default {border-color: #565656;}
+.panel-title{color: #c4c4c4}
+.creative-sec, .creative-sec-thumb figcaption{color: #c4c4c4}
+.img-thumbnail {background-color: #575757;border: 1px solid #575757;}
+.blog2-item{ background:#292929; border:1px solid #565656}
+.blog2-content h4, .blog2-content h4 a {color: #c4c4c4;}
+.accordian-style2 .panel {border: 1px solid #565656;}
+.accordian-style2 .panel-collapse{border-color: #565656;}
+.accordian-style2 .panel-heading .panel-title > a{color: #c4c4c4;}
+.slider-revolution .medicom-header{ background:none !important;}
+.fixed-header .medicom-header, .fixed-header .header-bottom-line, .header-bottom-line{background:#313131;}
+@media (min-width: 768px) {
+.fixed-header.small-header .slider-revolution .medicom-header{ background:#272727 !important; border-color:#525252}
+.fixed-header.small-header .slider-revolution .medicom-header .navbar-nav > li > a{color:#c4c4c4;}
+.fixed-header.small-header .slider-revolution .medicom-header{background:#313131 !important;}
+.fixed-header.small-header .slider-revolution .navbar-default .navbar-nav a:hover, .fixed-header.small-header .slider-revolution .navbar-default .navbar-nav li.active a{border-color:#575757;}
+.slider-revolution .navbar-default .navbar-nav li.dropdown .dropdown-menu a{border-color:#575757;}
+}
+.top-sec .toggle-btn{ background-image:url(../images/toggle-btn-dark.png);}
+.service-box h4, .service-box h4 a, .service-box{color: #c4c4c4}
+.service-box.one{border-right: 1px solid #575757;border-bottom: 1px solid #575757;}
+.service-box.three{border-right: 1px solid #575757;}
+.service-box.two{border-bottom: 1px solid #575757;}
+.news-and-our-clinic{border-top: 4px solid #565656;background: #313131;}
+.slider-mini h4{color: #c4c4c4}
+.slider-mini a{color: #c4c4c4;border-color: #c4c4c4;}
+.testimonials2, .appointment-sec2 {background: #383838; box-shadow:0 4px 0 #565656 !important;}
+.btn-dark {box-shadow: 0 3px 0 #414141;}
+.features, .piechart-section, .tri-sec-bg {background: #464646;}
+.piechart-section{ box-shadow: none !important}
+.feature-content h5, .feature-content h5 a, .feature-content p{color: #c4c4c4;}
+.reserch-bottom-nav {background: #4D4C4C;}
+.reserch-bottom-nav h4, .tri-sec h4, .tri-sec h4 a, .tri-sec{color: #c4c4c4}
+.sidebar-nav{background: #464646 !important;}
+.sidebar-nav .panel{background: #464646 !important;}
+.sidebar-nav .panel-body a:hover, .sidebar-nav .panel-body a.active{background: #5C5C5C !important;}
+.sidebar-nav .panel-body a{color: #c4c4c4;}
+.testimonials3{background: #464646;border: 1px solid #424040;}
+.doctors-list{background: #464646;border-bottom: 1px solid #6D6D6D;border-top: 1px solid #6D6D6D;}
+.doctors-detail h4 span, .doctors-detail p label.heading, .doctors-detail p label{color: #c4c4c4;}
+.doctors-detail p {border-bottom: 1px solid #727272;}
+.doctors-img, .social2 li a {border: 1px solid #7E7E7E;}
+.pricing-table li.list-light {background: #363535;}
+.pricing-table li.list-dark {background: #464646;}
+.pricing-table li span{color: #c4c4c4;}
+.pricing-table li{border-left: 1px solid #636363;}
+.gallery .gallery-filter-nav{border: 1px solid #636363;}
+.blog-full-width-date .monthyear{ border-color:#272727}
+.gallery .gallery-filter-nav .filter {border-right: 1px solid #636363; color:#c4c4c4}
+.gallery .gallery-filter-nav div:hover, .gallery .gallery-filter-nav div.active{ background:#636363}
+.gallery-item-info{background: #424242;border-bottom: 6px solid #575757;}
+.gallery-item-info p a{ color:#c4c4c4;}
+.search{background: #464646;}
+.search input[type="text"] {border: 1px solid #727272;}
+.tags li a {border: 1px solid #858585; color:#c4c4c4;}
+.popular-post h4, .popular-post h4 a, .best-seller h4, .best-seller h4 a {color: #c4c4c4;}
+.popular-post, .best-seller, .blog-full-width {border-bottom: 1px solid #565656;}
+.archives li a {color: #c4c4c4;}
+.comment{border: 1px solid #565656;box-shadow: 0 3px 0 #565656;}
+.comment-author, .comment-message{color:#c4c4c4;}
+.top-sec-detail{background-color: #313131}
+.top-sec-detail .contact-info li a, .top-sec-detail .contact-info li i{color: #c4c4c4;}
+.top-sec {border-bottom: 5px solid #5E5D5D;}
+.comment-reply-link{box-shadow: 0 3px 0 #414141;}
+.shop-banner .slider-text h1{color:#646464;}
+.shop-banner .list-inline > li{color:#646464;}
+.product h4, .product p {color: #c4c4c4;}
+.sperator {border-bottom: 1px solid #efefef;border-top: 1px solid #efefef;}
+.product {border: 1px solid #565656;}
+.sperator {border-bottom: 1px solid #565656;border-top: 1px solid #565656;}
+.product .ad-to-cart{color: #c4c4c4;}
+.product:hover {box-shadow: 0 0 15px 5px #424242;-webkit-box-shadow: 0 0 15px 5px #424242;-moz-box-shadow: 0 0 15px 5px #424242;}
+.item-counter {background: #464646;border: 1px solid #575757;}
+.item-counter input.items-total {background:#353232;}
+.resp-tabs-list li{border: 1px solid #565656;}
+.resp-tabs-container, .resp-tab-active{background: #464646;}
+.resp-tab-content {border: 1px solid #565656;}
+.tab-horizontal1{border-left: 1px solid #565656;}
+.cart-list {border: 1px solid #565656;}
+.cart-product, .cart-price, .cart-quantity, .cart-total, .product-remove2 {border-right: 1px solid #565656;}
+.cart-buttons {border-top: 1px solid #565656;}
+.cart-shipping, .cart-shipping {border: 1px solid #565656;}
+.order-total {border-bottom: 1px solid #565656;border-top: 1px solid #565656;}
+.social-rounded li a i{border: 2px solid #565656;}
+.get-in-touch-widget li a, .we-are-social li a {color: #c4c4c4;}
+.get-in-touch-widget li i, .we-are-social li i {color: #c4c4c4;}
+.get-in-touch-widget.boxed li i, .we-are-social.boxed li i{border: 1px solid #565656;}
+.blog2-content .arrow-right {background:url(../images/pointing-arrow-dark.png) no-repeat;}
+.after-booking-sec {background: #222;}
+.after-booking-sec li {color: #c4c4c4;}
+.social3 li a i, .fixed-header.small-header .medical-nav{ border-color:#747474}
+.navbar-nav > li > .dropdown-menu, .navbar-nav > li > .dropdown-menu .dropdown-menu{ background:#272727}
+.share-post{ border-color:#747474}
+.share-post label{ color:#c4c4c4}
+div.radio span{ background-color:#fff; border-radius:100%;}
+.error-text p span strong, .error-text p span {
+    color: #c4c4c4;
+}
+.get-directions input[type="submit"] {
+    background: url("../images/directions-btn-dark.jpg") no-repeat scroll 0 0;}
+.pricing-table2 ul {
+    background: #363535;
+}
+.pricing-table2 ul li {
+    border-bottom: 1px dashed #575757;
+    color: #fbfbfb;
+}
+.pricing-table2 {
+    background: #575757;
+}
+footer.dark, footer.light {
+	background:#313131;
+	color:#c4c4c4
+}
+footer.dark h4, footer.light h4 {
+	border-bottom:1px solid #747474;
+}
+footer.dark .footer-nav li a, footer.light .footer-nav li a {
+	color:#c4c4c4;
+}
+footer.dark .newsletter i, footer.light .newsletter i {
+	color:#c4c4c4;
+}
+footer.dark .tweet i, footer.light .tweet i {
+	color:#909090;
+}
+footer.dark .contact-widget i, footer.light .contact-widget i {
+	color:#c4c4c4;
+}
+footer.dark .contact-widget p a, footer.light .contact-widget p a {
+	color:#c4c4c4;
+}
+footer.dark .newsletter input[type="text"], footer.dark .newsletter input[type="email"],
+footer.light .newsletter input[type="text"], footer.light .newsletter input[type="email"] {
+	background:#292929;
+	border-color:#565656
+}
+/*copyright dark*/
+footer.dark .copyright, footer.light .copyright {
+	background:#222222;
+	border-bottom:1px solid #000;
+	color:#8d8d8d;
+	margin:30px 0;
+	padding:10px 0;
+}
+footer.dark .footer-bottom-text, footer.light .footer-bottom-text {
+	color:#757575;
+	padding-top:10px;}
+}
+
