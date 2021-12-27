@@ -1,15 +1,14 @@
-FROM python:3.7
+FROM python:3.7-slim-buster
 
 WORKDIR /app
 
-COPY './requirements.txt' .
+COPY requirements.txt requirements.txt
+RUN pip3 install -r requirements.txt
 
-# RUN apt-get install libgtk2.0-dev pkg-config -yqq 
-
-RUN pip install --upgrade pip
-
-RUN pip install -r requirements.txt
+RUN python -m nltk.downloader punkt
 
 COPY . .
 
-CMD ["python", "app.py"]
+RUN python train.py
+
+CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0", "--port=80"]
