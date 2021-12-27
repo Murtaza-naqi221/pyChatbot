@@ -1,0 +1,13 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+torch== 1.8.1+cpu
+torchvision==0.9.1+cpu
+jupyterlab
+numpy
+cython
+seaborn
+xlrd
+nltk
+plotly
+xgboost
+flask 
+pickle-mixin
